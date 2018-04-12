@@ -1,13 +1,15 @@
 # Still-GAN
 Make GAN using tensorflow
-# 파일 구조
+# Directory structure
 
-GAN
+<h2>GAN</h2>
+
 <li>Python file</li>
 <li>Jupyter Notebook File</li>
 <li>MarkDown File for explain</li>
 
-DCGAN
+<h2>DCGAN</h2>
+
 <li>Python file</li>
 <li>Jupyter Notebook File</li>
 <li>MarkDown File for explain</li>
